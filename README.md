@@ -24,4 +24,5 @@ This project focuses on testing different components in DriverUniversity website
 <li>Eclipse IDE: Integrated development environment providing tools for Java development and project management</li>
 
 <h2><b>Folder Structure</b></h2>
+
 ![Structure](https://github.com/lakmali-vishaka/DriverUniversity_Automation/assets/119029100/dca6170d-8f9e-41d2-b17a-dbe17236bf79)
