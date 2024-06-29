@@ -23,4 +23,4 @@ This project focuses on testing different components in DriverUniversity website
 
 <li>Eclipse IDE: Integrated development environment providing tools for Java development and project management</li>
 
-<h2><b>Demo Video</b></h2>
+<h2><b>Folder Structure</b></h2>
